@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(10, 8, 8);
+}
+
+#hardware{
+    position: absolute;
+    left: 32%;
+    top: 20%;
+}
+
+#botao{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+}
+
+#html{
+    position: absolute;
+    left: 32%;
+    top: 20%;
+}
+
+#js{
+    position: absolute;
+    left: 32%;
+    top: 20%;
+}
+
+#python{
+    position: absolute;
+    left: 32%;
+    top: 20%;
+}

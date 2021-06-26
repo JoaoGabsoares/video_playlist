@@ -1,0 +1,32 @@
+.body{
+    background-color: rgb(32, 32, 32);
+}
+
+#h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+#hardware{
+    position: absolute;
+    left: 35%;
+    top: 20%
+}
+
+#html{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+
+#js{
+    position: absolute;
+    left: 35%;
+    top: 40%
+}
+
+#python{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+}
